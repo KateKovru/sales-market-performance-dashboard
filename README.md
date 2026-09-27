@@ -5,7 +5,7 @@ market performance, and target attainment across European markets.
 
 ## Dashboard
 
-
+![Sales & Market Performance Dashboard](dashboard.png)
 
 ## Key Features
 
